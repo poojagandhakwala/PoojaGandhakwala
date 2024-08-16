@@ -1,20 +1,20 @@
 # About Me
 
-Hello! 👋 I'm Pooja, a passionate web developer from India.
+Hello! 👋 I'm Pooja, a passionate Software Developer from India.
 
 ## 📚 Background
-- Completed my BSc(CA&IT) from Gujarat University.
-- Have worked in ReactJS.
+- Pursuing MSc(CA&IT) from Gujarat University.
+- Working in ReactJS.
 
 ## 💻 Tech Stack
 
 Here are some of the technologies and tools I work with:
 
 - Programming languages: HTML, CSS, JavaScript, C, C++
-- Frameworks and libraries:  -  ReactJS
+- Frameworks and libraries:  -  ReactJS, React Native, Bootstrap, Tailwind CSS
 - Databases: Firebase
 - Version control: GitHub
-- Other tools: Adobe Photoshop, Figma
+- Other tools: Adobe Photoshop, Figma, Vercel
 <!-- 
 ## 🔭 My Interests
 
@@ -26,8 +26,8 @@ Here are some of the technologies and tools I work with:
 
 I am currently focusing on improving my skills in:
 
-- ReactJS
-- Tailwind CSS
+- NodeJS
+- AWS
 
 ## 📫 How to Reach Me
 
